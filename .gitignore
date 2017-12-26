@@ -104,3 +104,4 @@ ENV/
 *.tar.gz
 /Hand Sign Recognition Latex report
 /Hand Sign Recognition Latex report/*
+/Hand Sign Recognition Latex report/**
